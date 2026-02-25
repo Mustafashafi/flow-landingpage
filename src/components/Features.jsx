@@ -45,7 +45,7 @@ const Features = () => {
             icon: <GitMerge size={24} className="text-indigo-500" />,
             title: "Workflow Builder",
             description: "Drag and drop to create custom workflows that match your exact business processes.",
-            image: "https://images.unsplash.com/photo-1556761175-5973e8e2c0e1?auto=format&fit=crop&q=80&w=600"
+            image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&q=80&w=600"
         },
         {
             icon: <LineChart size={24} className="text-purple-500" />,
